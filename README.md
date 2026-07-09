@@ -56,8 +56,9 @@ The following table summarizes the final model performance on the test set after
 
 1.  Ensure you have Python 3 installed along with the required libraries (pandas, numpy, matplotlib, seaborn, sklearn).
 2.  Clone this repository.
-3.  Download the dataset (train.json and test.json) and place it in the `data/` directory.
-4.  Open the Jupyter Notebook (`main.ipynb`) and run all cells.
+3.  **Download the dataset:** The data for this project comes from the [Two Sigma Connect: Rental Listing Inquiries](https://www.kaggle.com/competitions/two-sigma-connect-rental-listing-inquiries/data) competition on Kaggle. You will need to download the `train.json` and `test.json` files from the competition's data page.
+4.  Place the downloaded `train.json` and `test.json` files into the `data/` directory within the project.
+5.  Open the Jupyter Notebook (`main.ipynb`) and run all cells.
 
 ## What I Learned
 
